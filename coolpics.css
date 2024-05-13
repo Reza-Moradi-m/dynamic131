@@ -92,6 +92,10 @@ main {
     display: none;
 }
 
+.close-viewer {
+    cursor: pointer; /* Change cursor to indicate */
+}
+
 .viewer {
     position: fixed;
     top: 0;
@@ -135,6 +139,3 @@ main {
 }
 
 
-.close-viewer {
-    cursor: pointer; /* Change cursor to indicate */
-}
