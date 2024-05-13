@@ -135,3 +135,6 @@ main {
 }
 
 
+.close-viewer {
+    cursor: pointer; /* Change cursor to indicate clickability */
+}
